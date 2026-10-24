@@ -1,0 +1,15 @@
+gene	stratum	variant	in_candidate_set	models_for_this_allele	evidence	tags	gene_models_available	selected_model	full_rank
+HMGCR	comphet_trans	5:75351562:G:A	False				het_single,incomplete_recessive	incomplete_recessive	1.0
+HMGCR	comphet_trans	5:75360045:C:T	True	het_single,incomplete_recessive	3.0	LoF;CADD36	het_single,incomplete_recessive	incomplete_recessive	1.0
+POPDC3	comphet_trans	6:105158564:C:T	True	het_single,incomplete_recessive	1.5	AM_path(sole)	het_single,incomplete_recessive	incomplete_recessive	1.0
+POPDC3	comphet_trans	6:105161450:T:C	False				het_single,incomplete_recessive	incomplete_recessive	1.0
+PTRHD1	comphet_trans	2:24790470:G:A	False				het_single,incomplete_recessive	incomplete_recessive	2.0
+PTRHD1	comphet_trans	2:24793223:C:T	True	het_single,incomplete_recessive	1.5	AM_path(sole)	het_single,incomplete_recessive	incomplete_recessive	2.0
+SGSH	comphet_trans	17:80210505:C:A	False				het_single,incomplete_recessive	incomplete_recessive	2.0
+SGSH	comphet_trans	17:80220313:T:G	True	het_single,incomplete_recessive	2.0	LoF	het_single,incomplete_recessive	incomplete_recessive	2.0
+F5	comphet_trans	1:169514330:C:A	True	het_single,incomplete_recessive	1.5	AM_path(sole)	het_single,incomplete_recessive	incomplete_recessive	7.0
+F5	comphet_trans	1:169586232:G:C	False				het_single,incomplete_recessive	incomplete_recessive	7.0
+SOD1	comphet_trans	21:31659779:A:G	False						
+SOD1	comphet_trans	21:31668568:T:C	False						
+TPRKB	hom	2:73730025:T:C	False						
+NOS3	hom	7:150995216:C:T	False						

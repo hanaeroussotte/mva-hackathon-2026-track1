@@ -1,0 +1,4 @@
+missense_policy	exact_at1_comphet_trans	exact_at1_complete	gene_at1_complete	cis_pair_in_top10	exact_at1_all80
+once (current default)	24/30	37/45	39/45	0	54/80
+both (pre-correction)	26/30	39/45	41/45	0	56/80
+none (no missense predictor)	18/30	26/45	33/45	0	40/80

@@ -1,0 +1,15 @@
+# Never commit proband data
+data/
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.fastq
+*.fastq.gz
+*.bam
+*.cram
+*.docx
+# Local scratch
+__pycache__/
+*.pyc
+.DS_Store
+._*

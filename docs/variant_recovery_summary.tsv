@@ -1,0 +1,5 @@
+stratum	n	endpoint	exact_at_1	exact_at_10	gene_at_1	own_hypothesis_is_exact_anywhere_in_ranking	own_hypothesis_is_one_allele	absent_from_FULL_ranking	median_full_rank
+comphet_trans	30	exact pair recovery (complete causal truth)	24	24	26	24	5	1	1.0
+hom	15	exact variant recovery (complete causal truth)	13	13	13	13	0	2	1.0
+single_allele	20	retrieval of an incomplete hypothesis	17	19	17	19	0	1	1.0
+comphet_cis	15	suppression of a non-causal pair	0	0	2	11	2	2	20.0

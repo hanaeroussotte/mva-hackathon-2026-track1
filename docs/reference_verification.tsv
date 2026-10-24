@@ -1,0 +1,21 @@
+key	doi	ok	year	journal	volume	page	title
+Hanks 2004	10.1038/ng1449	True	2004	Nature Genetics	36	1159-1161	Constitutional aneuploidy and cancer predisposition caused
+Suijkerbuijk 2010	10.1158/0008-5472.CAN-09-4319	True	2010	Cancer Research	70	4891-4900	Molecular Causes for BUBR1 Dysfunction in the Human Cancer
+Ochiai 2014	10.1073/pnas.1317008111	True	2014	Proceedings of the National Academy of	111	1461-1466	TALEN-mediated single-base-pair editing identification of 
+Matsuura 2006	10.1002/ajmg.a.31069	True	2006	American Journal of Medical Genetics P	140A	358-367	Monoallelic <i>BUB1B</i> mutations and defective mitotic‐s
+Garcia-Castillo 2008	10.1002/ajmg.a.32315	True	2008	American Journal of Medical Genetics P	146A	1687-1695	Clinical and genetic heterogeneity in patients with mosaic
+Narendra 2001	10.1136/fn.85.3.F207	True	2001	Archives of Disease in Childhood - Fet	85	F207-F213	Nephrocalcinosis in preterm babies
+Yost 2017	10.1038/ng.3883	True	2017	Nature Genetics	49	1148-1151	Biallelic TRIP13 mutations predispose to Wilms tumor and c
+McLaren 2016	10.1186/s13059-016-0974-4	True	2016	Genome Biology	17		The Ensembl Variant Effect Predictor
+Rentzsch 2019	10.1093/nar/gky1016	True	2019	Nucleic Acids Research	47	D886-D894	CADD: predicting the deleteriousness of variants throughou
+Cheng 2023	10.1126/science.adg7492	True	2023	Science	381		Accurate proteome-wide missense variant effect prediction 
+Jaganathan 2019	10.1016/j.cell.2018.12.015	True	2019	Cell	176	535-548.e24	Predicting Splicing from Primary Sequence with Deep Learni
+Landrum 2018	10.1093/nar/gkx1153	True	2018	Nucleic Acids Research	46	D1062-D1067	ClinVar: improving access to variant interpretations and s
+Chen 2024	10.1038/s41586-023-06045-0	True	2024	Nature	625	92-100	A genomic mutational constraint map using variation in 76,
+Gargano 2024	10.1093/nar/gkad1005	True	2024	Nucleic Acids Research	52	D1333-D1346	The Human Phenotype Ontology in 2024: phenotypes around th
+Richards 2015	10.1038/gim.2015.30	True	2015	Genetics in Medicine	17	405-424	Standards and guidelines for the interpretation of sequenc
+Martin 2016 whatshap	10.1101/085050	True	2016	-			WhatsHap: fast and accurate read-based phasing
+Li 2018 minimap2	10.1093/bioinformatics/bty191	True	2018	Bioinformatics	34	3094-3100	Minimap2: pairwise alignment for nucleotide sequences
+Danecek 2021	10.1093/gigascience/giab008	True	2021	GigaScience	10		Twelve years of SAMtools and BCFtools
+Stenton 2024	10.1186/s40246-024-00604-w	True	2024	Human Genomics	18		Critical assessment of variant prioritization methods for 
+Martin 2019 panelapp	10.1038/s41588-019-0528-2	True	2019	Nature Genetics	51	1560-1565	PanelApp crowdsources expert knowledge to establish consen

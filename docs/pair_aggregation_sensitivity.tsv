@@ -1,0 +1,3 @@
+rule	exact_pair_at1_comphet_trans	exact_at1_all_complete	gene_at1_all_complete	cis_pair_promoted_at1	exact_at1_all80
+mean (current, as submitted)	24/30	37/45	39/45	0	54/80
+min (weaker allele governs)	24/30	37/45	39/45	0	54/80

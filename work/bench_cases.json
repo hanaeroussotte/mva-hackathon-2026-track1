@@ -1,0 +1,3022 @@
+[
+{
+"gene": "HMGCR",
+"disease": "OMIM:620375",
+"disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 28",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0004887",
+"HP:0003236",
+"HP:0410263",
+"HP:0003326",
+"HP:0100297",
+"HP:0008994",
+"HP:0025168",
+"HP:0001284"
+],
+"variants": [
+{
+"chrom": "5",
+"pos": "75351562",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "18,22",
+"dp": "40",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "5",
+"pos": "75360045",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "10,7",
+"dp": "17",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "KIF1C",
+"disease": "OMIM:611302",
+"disease_name": "Spastic ataxia 2, autosomal recessive",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0002497",
+"HP:0001260",
+"HP:0002359",
+"HP:0001310",
+"HP:0003693",
+"HP:0000666",
+"HP:0001257",
+"HP:0001272"
+],
+"variants": [
+{
+"chrom": "17",
+"pos": "5000249",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "32,20",
+"dp": "52",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "17",
+"pos": "5022304",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "26,27",
+"dp": "53",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "MLIP",
+"disease": "OMIM:620138",
+"disease_name": "Myopathy with myalgia, increased serum creatine kinase, and with or without episodic rhabdomyolysis",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0003557",
+"HP:0002910",
+"HP:0003259",
+"HP:0003738",
+"HP:0003710",
+"HP:0008967",
+"HP:0003687",
+"HP:0003546"
+],
+"variants": [
+{
+"chrom": "6",
+"pos": "54124848",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "31,10",
+"dp": "41",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "6",
+"pos": "54189915",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "49,35",
+"dp": "84",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "SLC6A5",
+"disease": "OMIM:614618",
+"disease_name": "Hyperekplexia 3",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0001279",
+"HP:0002104",
+"HP:0002069",
+"HP:0003552",
+"HP:0001263",
+"HP:0002036",
+"HP:0002267",
+"HP:0011412"
+],
+"variants": [
+{
+"chrom": "11",
+"pos": "20599676",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "22,23",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "11",
+"pos": "20652342",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "27,32",
+"dp": "59",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "POPDC3",
+"disease": "OMIM:618848",
+"disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 26",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0003557",
+"HP:0008981",
+"HP:0012548",
+"HP:0009046",
+"HP:0008994",
+"HP:0003701",
+"HP:0003713",
+"HP:0030234"
+],
+"variants": [
+{
+"chrom": "6",
+"pos": "105158564",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "22,15",
+"dp": "37",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "6",
+"pos": "105161450",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "23,20",
+"dp": "43",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "WDR19",
+"disease": "OMIM:614376",
+"disease_name": "Short-Rib thoracic dysplasia 5 with or without polydactyly",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0003016",
+"HP:0007843",
+"HP:0002558",
+"HP:0000293",
+"HP:0000545",
+"HP:0004322",
+"HP:0001773",
+"HP:0100866"
+],
+"variants": [
+{
+"chrom": "4",
+"pos": "39185733",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "16,20",
+"dp": "36",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "4",
+"pos": "39278208",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "29,9",
+"dp": "38",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "DNAAF11",
+"disease": "OMIM:614935",
+"disease_name": "Ciliary dyskinesia, primary, 19",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0011108",
+"HP:0012263",
+"HP:0012384",
+"HP:0002205",
+"HP:0012259",
+"HP:0001696",
+"HP:0012265",
+"HP:0004469"
+],
+"variants": [
+{
+"chrom": "8",
+"pos": "132583693",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "21,15",
+"dp": "36",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "8",
+"pos": "132675493",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "25,29",
+"dp": "54",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "COX15",
+"disease": "OMIM:220110",
+"disease_name": "Mitochondrial complex IV deficiency, nuclear type 1",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0003076",
+"HP:0001290",
+"HP:0002490",
+"HP:0002098",
+"HP:0002878",
+"HP:0000508",
+"HP:0000580",
+"HP:0002747"
+],
+"variants": [
+{
+"chrom": "10",
+"pos": "99718345",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "31,10",
+"dp": "41",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "10",
+"pos": "99732046",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "23,18",
+"dp": "41",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "PIEZO1",
+"disease": "OMIM:616843",
+"disease_name": "Lymphedema, hereditary, III",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0000767",
+"HP:0002202",
+"HP:0100539",
+"HP:0001263",
+"HP:0000365",
+"HP:0002619",
+"HP:0000378",
+"HP:0002593"
+],
+"variants": [
+{
+"chrom": "16",
+"pos": "88715683",
+"ref": "C",
+"alt": "G",
+"gt": "0/1",
+"ad": "19,21",
+"dp": "40",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "16",
+"pos": "88784900",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "26,19",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "FXN",
+"disease": "OMIM:229300",
+"disease_name": "Friedreich ataxia 1",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0003448",
+"HP:0000763",
+"HP:0002650",
+"HP:0003232",
+"HP:0001639",
+"HP:0003487",
+"HP:0002495",
+"HP:0001626"
+],
+"variants": [
+{
+"chrom": "9",
+"pos": "69035784",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "21,25",
+"dp": "46",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "9",
+"pos": "69072646",
+"ref": "T",
+"alt": "G",
+"gt": "0/1",
+"ad": "23,19",
+"dp": "42",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "POMK",
+"disease": "OMIM:615249",
+"disease_name": "Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 12",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0001263",
+"HP:0000407",
+"HP:0001250",
+"HP:0002365",
+"HP:0001090",
+"HP:0003236",
+"HP:0001371",
+"HP:0000505"
+],
+"variants": [
+{
+"chrom": "8",
+"pos": "43103558",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "24,21",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "8",
+"pos": "43122731",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "27,18",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "SPTBN2",
+"disease": "OMIM:615386",
+"disease_name": "Spinocerebellar ataxia, autosomal recessive 14",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0000750",
+"HP:0000571",
+"HP:0002066",
+"HP:0002075",
+"HP:0001272",
+"HP:0001263",
+"HP:0002317",
+"HP:0001310"
+],
+"variants": [
+{
+"chrom": "11",
+"pos": "66687426",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "25,18",
+"dp": "43",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "11",
+"pos": "66721083",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "32,28",
+"dp": "60",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "PTRHD1",
+"disease": "OMIM:620747",
+"disease_name": "Neurodevelopmental disorder with early-onset parkinsonism and behavioral abnormalities",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0000739",
+"HP:0000736",
+"HP:0009027",
+"HP:0008944",
+"HP:0002174",
+"HP:0001347",
+"HP:0002396",
+"HP:0001300"
+],
+"variants": [
+{
+"chrom": "2",
+"pos": "24790470",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "18,21",
+"dp": "39",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "2",
+"pos": "24793223",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "13,23",
+"dp": "36",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "TMEM126B",
+"disease": "OMIM:618250",
+"disease_name": "Mitochondrial complex I deficiency, nuclear type 29",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0001962",
+"HP:0003750",
+"HP:0030774",
+"HP:0001639",
+"HP:0003701",
+"HP:0003326",
+"HP:0001627",
+"HP:0012378"
+],
+"variants": [
+{
+"chrom": "11",
+"pos": "85631686",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "21,19",
+"dp": "40",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "11",
+"pos": "85636123",
+"ref": "T",
+"alt": "G",
+"gt": "0/1",
+"ad": "28,34",
+"dp": "62",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "DHX38",
+"disease": "OMIM:618220",
+"disease_name": "Retinitis pigmentosa 84",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0007737",
+"HP:0007401",
+"HP:0000662",
+"HP:0000518",
+"HP:0007843",
+"HP:0001116",
+"HP:0000510",
+"HP:0030553"
+],
+"variants": [
+{
+"chrom": "16",
+"pos": "72097766",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "17,24",
+"dp": "41",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "16",
+"pos": "72105298",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "6,17",
+"dp": "23",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "LRRC56",
+"disease": "OMIM:618254",
+"disease_name": "Ciliary dyskinesia, primary, 39",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0012735",
+"HP:0002783",
+"HP:0002110",
+"HP:0006528",
+"HP:0000403",
+"HP:0033036",
+"HP:0001651",
+"HP:0001719"
+],
+"variants": [
+{
+"chrom": "11",
+"pos": "540843",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "14,22",
+"dp": "36",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "11",
+"pos": "553961",
+"ref": "A",
+"alt": "G",
+"gt": "0/1",
+"ad": "21,20",
+"dp": "41",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "RAD50",
+"disease": "OMIM:613078",
+"disease_name": "Nijmegen breakage syndrome-like disorder",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0000320",
+"HP:0004313",
+"HP:0001257",
+"HP:0001510",
+"HP:0000540",
+"HP:0001249",
+"HP:0004322",
+"HP:0010997"
+],
+"variants": [
+{
+"chrom": "5",
+"pos": "132557325",
+"ref": "A",
+"alt": "G",
+"gt": "0/1",
+"ad": "15,16",
+"dp": "31",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "5",
+"pos": "132642212",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "16,19",
+"dp": "35",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "F7",
+"disease": "OMIM:227500",
+"disease_name": "Factor VII deficiency",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0005261",
+"HP:0008169",
+"HP:0012233",
+"HP:0000421",
+"HP:0002170",
+"HP:0006298",
+"HP:0000132",
+"HP:0001892"
+],
+"variants": [
+{
+"chrom": "13",
+"pos": "113105843",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "21,25",
+"dp": "46",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "13",
+"pos": "113118991",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "26,28",
+"dp": "54",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "MDFIC",
+"disease": "OMIM:620014",
+"disease_name": "Lymphatic malformation 12",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0000034",
+"HP:0002643",
+"HP:0001791",
+"HP:0031944",
+"HP:0025671",
+"HP:0001004",
+"HP:0000962",
+"HP:0001561"
+],
+"variants": [
+{
+"chrom": "7",
+"pos": "114922637",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "34,41",
+"dp": "75",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "7",
+"pos": "114942367",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "24,22",
+"dp": "46",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "DDB2",
+"disease": "OMIM:278740",
+"disease_name": "Xeroderma pigmentosum, complementation group E",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0000621",
+"HP:0000613",
+"HP:0006739",
+"HP:0002671",
+"HP:0000992",
+"HP:0004334",
+"HP:0000656",
+"HP:0000491"
+],
+"variants": [
+{
+"chrom": "11",
+"pos": "47216334",
+"ref": "A",
+"alt": "G",
+"gt": "0/1",
+"ad": "29,24",
+"dp": "53",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "11",
+"pos": "47238000",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "29,24",
+"dp": "53",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "HPS5",
+"disease": "OMIM:614074",
+"disease_name": "Hermansky-Pudlak syndrome 5",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0001107",
+"HP:0001873",
+"HP:0000486",
+"HP:0007663",
+"HP:0003010",
+"HP:0000666",
+"HP:0000132",
+"HP:0100608"
+],
+"variants": [
+{
+"chrom": "11",
+"pos": "18282143",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "38,18",
+"dp": "56",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "11",
+"pos": "18311978",
+"ref": "G",
+"alt": "C",
+"gt": "0/1",
+"ad": "19,21",
+"dp": "40",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "SPG21",
+"disease": "OMIM:248900",
+"disease_name": "Mast syndrome",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0002305",
+"HP:0002015",
+"HP:0002476",
+"HP:0007340",
+"HP:0001347",
+"HP:0001258",
+"HP:0009830",
+"HP:0002075"
+],
+"variants": [
+{
+"chrom": "15",
+"pos": "64965394",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "47,23",
+"dp": "70",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "15",
+"pos": "64980971",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "20,18",
+"dp": "38",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "SGSH",
+"disease": "OMIM:252900",
+"disease_name": "Mucopolysaccharidosis type IIIA",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0001670",
+"HP:0003309",
+"HP:0002208",
+"HP:0000250",
+"HP:0000365",
+"HP:0002650",
+"HP:0001537",
+"HP:0001250"
+],
+"variants": [
+{
+"chrom": "17",
+"pos": "80210505",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "17,12",
+"dp": "29",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "17",
+"pos": "80220313",
+"ref": "T",
+"alt": "G",
+"gt": "0/1",
+"ad": "16,26",
+"dp": "42",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "F5",
+"disease": "OMIM:227400",
+"disease_name": "Factor V deficiency",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0008151",
+"HP:0005542",
+"HP:0000978",
+"HP:0003225",
+"HP:0003645",
+"HP:0001892",
+"HP:0000421",
+"HP:0003010"
+],
+"variants": [
+{
+"chrom": "1",
+"pos": "169514330",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "15,18",
+"dp": "33",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "1",
+"pos": "169586232",
+"ref": "G",
+"alt": "C",
+"gt": "0/1",
+"ad": "22,28",
+"dp": "50",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "IFNGR1",
+"disease": "OMIM:209950",
+"disease_name": "Immunodeficiency 27A, mycobacteriosis, AR",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0001894",
+"HP:0002014",
+"HP:0100727",
+"HP:0003496",
+"HP:0001945",
+"HP:0003073",
+"HP:0012649",
+"HP:0002716"
+],
+"variants": [
+{
+"chrom": "6",
+"pos": "137200931",
+"ref": "T",
+"alt": "A",
+"gt": "0/1",
+"ad": "19,26",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "6",
+"pos": "137219326",
+"ref": "A",
+"alt": "T",
+"gt": "0/1",
+"ad": "22,14",
+"dp": "36",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "ZNF335",
+"disease": "OMIM:615095",
+"disease_name": "Microcephaly 10, primary, autosomal recessive",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0002171",
+"HP:0002059",
+"HP:0002804",
+"HP:0001276",
+"HP:0011451",
+"HP:0001272",
+"HP:0000453",
+"HP:0000340"
+],
+"variants": [
+{
+"chrom": "20",
+"pos": "45949365",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "21,16",
+"dp": "37",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "20",
+"pos": "45967896",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "30,20",
+"dp": "50",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "RPIA",
+"disease": "OMIM:608611",
+"disease_name": "Ribose 5-phosphate isomerase deficiency",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0001250",
+"HP:0007141",
+"HP:0410073",
+"HP:0001257",
+"HP:0410055",
+"HP:0410072",
+"HP:0002352",
+"HP:0000648"
+],
+"variants": [
+{
+"chrom": "2",
+"pos": "88691702",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "24,21",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "2",
+"pos": "88738008",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "30,35",
+"dp": "65",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "DMXL2",
+"disease": "OMIM:616113",
+"disease_name": "Polyendocrine-polyneuropathy syndrome",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0008897",
+"HP:0001271",
+"HP:0001270",
+"HP:0001730",
+"HP:0004408",
+"HP:0001260",
+"HP:0002342",
+"HP:0010627"
+],
+"variants": [
+{
+"chrom": "15",
+"pos": "51455213",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "22,10",
+"dp": "32",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "15",
+"pos": "51565167",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "37,39",
+"dp": "76",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "OPTN",
+"disease": "OMIM:613435",
+"disease_name": "Amyotrophic lateral sclerosis 12 with or without frontotemporal dementia",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0007354",
+"HP:0030007",
+"HP:0012473",
+"HP:0001324",
+"HP:0001308",
+"HP:0002380",
+"HP:0002878",
+"HP:0002015"
+],
+"variants": [
+{
+"chrom": "10",
+"pos": "13109249",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "16,19",
+"dp": "35",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "10",
+"pos": "13136802",
+"ref": "A",
+"alt": "C",
+"gt": "0/1",
+"ad": "27,15",
+"dp": "42",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "SOD1",
+"disease": "OMIM:105400",
+"disease_name": "Amyotrophic lateral sclerosis 1",
+"stratum": "comphet_trans",
+"hpo": [
+"HP:0001257",
+"HP:0001260",
+"HP:0007354",
+"HP:0002314",
+"HP:0003394",
+"HP:0001324",
+"HP:0002380",
+"HP:0001347"
+],
+"variants": [
+{
+"chrom": "21",
+"pos": "31659779",
+"ref": "A",
+"alt": "G",
+"gt": "0/1",
+"ad": "49,47",
+"dp": "96",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+},
+{
+"chrom": "21",
+"pos": "31668568",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "15,20",
+"dp": "35",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "B3GLCT",
+"disease": "OMIM:261540",
+"disease_name": "Peters-plus syndrome",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0001561",
+"HP:0000126",
+"HP:0001761",
+"HP:0000365",
+"HP:0001169",
+"HP:0001629",
+"HP:0001643",
+"HP:0000767"
+],
+"variants": [
+{
+"chrom": "13",
+"pos": "31286770",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "15,25",
+"dp": "40",
+"gq": "99",
+"pgt": "0|1",
+"pid": "31286770_C_T"
+},
+{
+"chrom": "13",
+"pos": "31286800",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "28,26",
+"dp": "54",
+"gq": "99",
+"pgt": "0|1",
+"pid": "31286770_C_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "MCM3AP",
+"disease": "OMIM:618124",
+"disease_name": "Peripheral neuropathy, autosomal recessive, with or without impaired intellectual development",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0001249",
+"HP:0001252",
+"HP:0002936",
+"HP:0004322",
+"HP:0007328",
+"HP:0003477",
+"HP:0001265",
+"HP:0002505"
+],
+"variants": [
+{
+"chrom": "21",
+"pos": "46246626",
+"ref": "A",
+"alt": "T",
+"gt": "0/1",
+"ad": "18,19",
+"dp": "37",
+"gq": "99",
+"pgt": "0|1",
+"pid": "46246626_A_T"
+},
+{
+"chrom": "21",
+"pos": "46246627",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "19,17",
+"dp": "36",
+"gq": "99",
+"pgt": "0|1",
+"pid": "46246626_A_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "ESCO2",
+"disease": "OMIM:216100",
+"disease_name": "Cleft lip/palate with abnormal thumbs and microcephaly",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0002553",
+"HP:0000085",
+"HP:0000508",
+"HP:0000252",
+"HP:0001377",
+"HP:0004322",
+"HP:0003995",
+"HP:0001249"
+],
+"variants": [
+{
+"chrom": "8",
+"pos": "27775515",
+"ref": "A",
+"alt": "G",
+"gt": "0/1",
+"ad": "17,23",
+"dp": "40",
+"gq": "99",
+"pgt": "0|1",
+"pid": "27775515_A_G"
+},
+{
+"chrom": "8",
+"pos": "27775555",
+"ref": "T",
+"alt": "A",
+"gt": "0/1",
+"ad": "22,33",
+"dp": "55",
+"gq": "99",
+"pgt": "0|1",
+"pid": "27775515_A_G"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "ITGB4",
+"disease": "OMIM:226730",
+"disease_name": "Epidermolysis bullosa, junctional, with pyloric atresia",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0006297",
+"HP:0002032",
+"HP:0002164",
+"HP:0002804",
+"HP:0001075",
+"HP:0008066",
+"HP:0001798",
+"HP:0002041"
+],
+"variants": [
+{
+"chrom": "17",
+"pos": "75724729",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "19,32",
+"dp": "51",
+"gq": "99",
+"pgt": "0|1",
+"pid": "75724729_G_A"
+},
+{
+"chrom": "17",
+"pos": "75724783",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "44,11",
+"dp": "55",
+"gq": "99",
+"pgt": "0|1",
+"pid": "75724729_G_A"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "COL17A1",
+"disease": "OMIM:226650",
+"disease_name": "Epidermolysis bullosa, junctional, Non-Herlitz type",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0007556",
+"HP:0000670",
+"HP:0008404",
+"HP:0200097",
+"HP:0002232",
+"HP:0000668",
+"HP:0001808",
+"HP:0008066"
+],
+"variants": [
+{
+"chrom": "10",
+"pos": "104034193",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "23,21",
+"dp": "44",
+"gq": "99",
+"pgt": "0|1",
+"pid": "104034193_C_T"
+},
+{
+"chrom": "10",
+"pos": "104034205",
+"ref": "G",
+"alt": "C",
+"gt": "0/1",
+"ad": "17,12",
+"dp": "29",
+"gq": "99",
+"pgt": "0|1",
+"pid": "104034193_C_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "ERCC2",
+"disease": "OMIM:278730",
+"disease_name": "Xeroderma pigmentosum, complementation group D",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0001029",
+"HP:0000407",
+"HP:0003079",
+"HP:0001251",
+"HP:0000613",
+"HP:0000518",
+"HP:0001097",
+"HP:0011496"
+],
+"variants": [
+{
+"chrom": "19",
+"pos": "45351722",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "25,27",
+"dp": "52",
+"gq": "99",
+"pgt": "0|1",
+"pid": "45351722_C_T"
+},
+{
+"chrom": "19",
+"pos": "45351723",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "29,20",
+"dp": "49",
+"gq": "99",
+"pgt": "0|1",
+"pid": "45351722_C_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "GM2A",
+"disease": "OMIM:272750",
+"disease_name": "GM2-gangliosidosis, AB variant",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0001347",
+"HP:0002371",
+"HP:0001290",
+"HP:0008936",
+"HP:0002267",
+"HP:0002476",
+"HP:0001250",
+"HP:0002421"
+],
+"variants": [
+{
+"chrom": "5",
+"pos": "151266729",
+"ref": "A",
+"alt": "T",
+"gt": "0/1",
+"ad": "36,16",
+"dp": "52",
+"gq": "99",
+"pgt": "0|1",
+"pid": "151266729_A_T"
+},
+{
+"chrom": "5",
+"pos": "151266746",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "14,17",
+"dp": "31",
+"gq": "99",
+"pgt": "0|1",
+"pid": "151266729_A_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "ALPK3",
+"disease": "OMIM:618052",
+"disease_name": "Cardiomyopathy, familial hypertrophic 27",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0001712",
+"HP:0001297",
+"HP:0002870",
+"HP:0034665",
+"HP:0001943",
+"HP:0006677",
+"HP:0001252",
+"HP:0001655"
+],
+"variants": [
+{
+"chrom": "15",
+"pos": "84817569",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "13,11",
+"dp": "24",
+"gq": "99",
+"pgt": "0|1",
+"pid": "84817569_C_A"
+},
+{
+"chrom": "15",
+"pos": "84817596",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "23,13",
+"dp": "36",
+"gq": "99",
+"pgt": "0|1",
+"pid": "84817569_C_A"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "MDH2",
+"disease": "OMIM:617339",
+"disease_name": "Epileptic encephalopathy, early infantile, 51",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0002120",
+"HP:0001250",
+"HP:0001265",
+"HP:0002019",
+"HP:0007371",
+"HP:0011968",
+"HP:0001252",
+"HP:0001344"
+],
+"variants": [
+{
+"chrom": "7",
+"pos": "76058047",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "23,6",
+"dp": "29",
+"gq": "99",
+"pgt": "0|1",
+"pid": "76058047_C_T"
+},
+{
+"chrom": "7",
+"pos": "76058079",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "19,22",
+"dp": "41",
+"gq": "99",
+"pgt": "0|1",
+"pid": "76058047_C_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "DNAAF5",
+"disease": "OMIM:614874",
+"disease_name": "Ciliary dyskinesia, primary, 18",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0012208",
+"HP:0002643",
+"HP:0012256",
+"HP:0011108",
+"HP:0012384",
+"HP:0012257",
+"HP:0000403",
+"HP:0001696"
+],
+"variants": [
+{
+"chrom": "7",
+"pos": "741367",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "27,36",
+"dp": "63",
+"gq": "99",
+"pgt": "0|1",
+"pid": "741367_G_A"
+},
+{
+"chrom": "7",
+"pos": "741384",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "16,26",
+"dp": "42",
+"gq": "99",
+"pgt": "0|1",
+"pid": "741367_G_A"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "USP53",
+"disease": "OMIM:619658",
+"disease_name": "Cholestasis, progressive familial intrahepatic, 7, with or without hearing loss",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0003155",
+"HP:0001395",
+"HP:0012852",
+"HP:0002901",
+"HP:0031964",
+"HP:0000365",
+"HP:0001744",
+"HP:0000952"
+],
+"variants": [
+{
+"chrom": "4",
+"pos": "119245345",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "25,20",
+"dp": "45",
+"gq": "99",
+"pgt": "0|1",
+"pid": "119245345_G_A"
+},
+{
+"chrom": "4",
+"pos": "119245350",
+"ref": "T",
+"alt": "A",
+"gt": "0/1",
+"ad": "15,29",
+"dp": "44",
+"gq": "99",
+"pgt": "0|1",
+"pid": "119245345_G_A"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "DYNC2I2",
+"disease": "OMIM:615633",
+"disease_name": "Short-Rib thoracic dysplasia 11 with or without polydactyly",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0000750",
+"HP:0000895",
+"HP:0000028",
+"HP:0000774",
+"HP:0000888",
+"HP:0000510",
+"HP:0001591",
+"HP:0100259"
+],
+"variants": [
+{
+"chrom": "9",
+"pos": "128634225",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "46,24",
+"dp": "70",
+"gq": "99",
+"pgt": "0|1",
+"pid": "128634225_C_T"
+},
+{
+"chrom": "9",
+"pos": "128634258",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "22,23",
+"dp": "45",
+"gq": "99",
+"pgt": "0|1",
+"pid": "128634225_C_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "FGF8",
+"disease": "OMIM:146110",
+"disease_name": "Hypogonadotropic hypogonadism 7 without anosmia",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0002215",
+"HP:0000771",
+"HP:0002225",
+"HP:0004408",
+"HP:0000028",
+"HP:0008734",
+"HP:0000786",
+"HP:0000044"
+],
+"variants": [
+{
+"chrom": "10",
+"pos": "101771462",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "29,18",
+"dp": "47",
+"gq": "99",
+"pgt": "0|1",
+"pid": "101771462_C_T"
+},
+{
+"chrom": "10",
+"pos": "101771522",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "15,29",
+"dp": "44",
+"gq": "99",
+"pgt": "0|1",
+"pid": "101771462_C_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "NOTCH3",
+"disease": "OMIM:621295",
+"disease_name": "Cerebral arteriopathy, autosomal recessive, with subcortical infarcts and leukoencephalopathy 1",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0001287",
+"HP:0011410",
+"HP:0001320",
+"HP:0000347",
+"HP:0002943",
+"HP:0002066",
+"HP:0001270",
+"HP:0006579"
+],
+"variants": [
+{
+"chrom": "19",
+"pos": "15161329",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "17,16",
+"dp": "33",
+"gq": "99",
+"pgt": "0|1",
+"pid": "15161329_G_T"
+},
+{
+"chrom": "19",
+"pos": "15161381",
+"ref": "T",
+"alt": "A",
+"gt": "0/1",
+"ad": "57,33",
+"dp": "90",
+"gq": "99",
+"pgt": "0|1",
+"pid": "15161329_G_T"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "DCDC2",
+"disease": "OMIM:616217",
+"disease_name": "Nephronophthisis 19",
+"stratum": "comphet_cis",
+"hpo": [
+"HP:0000090",
+"HP:0001744",
+"HP:0004719",
+"HP:0003774",
+"HP:0032948",
+"HP:0001396",
+"HP:0001408",
+"HP:0002240"
+],
+"variants": [
+{
+"chrom": "6",
+"pos": "24178385",
+"ref": "T",
+"alt": "G",
+"gt": "0/1",
+"ad": "31,34",
+"dp": "65",
+"gq": "99",
+"pgt": "0|1",
+"pid": "24178385_T_G"
+},
+{
+"chrom": "6",
+"pos": "24178407",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "36,7",
+"dp": "43",
+"gq": "99",
+"pgt": "0|1",
+"pid": "24178385_T_G"
+}
+],
+"expect_top1": false
+},
+{
+"gene": "POC1B",
+"disease": "OMIM:615973",
+"disease_name": "Cone-Rod dystrophy 20",
+"stratum": "single_allele",
+"hpo": [
+"HP:0000639",
+"HP:0000543",
+"HP:0007663",
+"HP:0000548",
+"HP:0000505",
+"HP:0000603",
+"HP:0007737",
+"HP:0011003"
+],
+"variants": [
+{
+"chrom": "12",
+"pos": "89425198",
+"ref": "A",
+"alt": "T",
+"gt": "0/1",
+"ad": "22,19",
+"dp": "41",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "D2HGDH",
+"disease": "OMIM:600721",
+"disease_name": "D-2-Hydroxyglutaric aciduria 1",
+"stratum": "single_allele",
+"hpo": [
+"HP:0001324",
+"HP:0011220",
+"HP:0032792",
+"HP:0005348",
+"HP:0006956",
+"HP:0001263",
+"HP:0002069",
+"HP:6000246"
+],
+"variants": [
+{
+"chrom": "2",
+"pos": "241767773",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "31,25",
+"dp": "56",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "FGG",
+"disease": "OMIM:202400",
+"disease_name": "Afibrinogenemia, congenitalhypofibrinogenemia, congenital, included",
+"stratum": "single_allele",
+"hpo": [
+"HP:0000225",
+"HP:0012223",
+"HP:0002248",
+"HP:0001934",
+"HP:0011900",
+"HP:0000421",
+"HP:0001892",
+"HP:0100309"
+],
+"variants": [
+{
+"chrom": "4",
+"pos": "154608651",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "20,18",
+"dp": "38",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "CLCN1",
+"disease": "OMIM:255700",
+"disease_name": "Myotonia congenita, autosomal recessive",
+"stratum": "single_allele",
+"hpo": [
+"HP:0025605",
+"HP:0002015",
+"HP:0010548",
+"HP:0008968",
+"HP:0003712",
+"HP:0003740",
+"HP:0003552",
+"HP:0003730"
+],
+"variants": [
+{
+"chrom": "7",
+"pos": "143330789",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "18,33",
+"dp": "51",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "SDHA",
+"disease": "OMIM:252011",
+"disease_name": "Mitochondrial complex II deficiency",
+"stratum": "single_allele",
+"hpo": [
+"HP:0001250",
+"HP:0004322",
+"HP:0000602",
+"HP:0001371",
+"HP:0001336",
+"HP:0002151",
+"HP:0012240",
+"HP:0032653"
+],
+"variants": [
+{
+"chrom": "5",
+"pos": "233551",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "24,24",
+"dp": "48",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "RAB18",
+"disease": "OMIM:614222",
+"disease_name": "Warburg micro syndrome 3",
+"stratum": "single_allele",
+"hpo": [
+"HP:0006610",
+"HP:0002061",
+"HP:0000189",
+"HP:0000639",
+"HP:0004209",
+"HP:0000347",
+"HP:0000064",
+"HP:0000594"
+],
+"variants": [
+{
+"chrom": "10",
+"pos": "27533747",
+"ref": "C",
+"alt": "T",
+"gt": "0/1",
+"ad": "13,22",
+"dp": "35",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "G6PC1",
+"disease": "OMIM:232200",
+"disease_name": "Glycogen storage disease Ia",
+"stratum": "single_allele",
+"hpo": [
+"HP:0000939",
+"HP:0002149",
+"HP:0003077",
+"HP:0000093",
+"HP:0001943",
+"HP:0001402",
+"HP:0001892",
+"HP:0001510"
+],
+"variants": [
+{
+"chrom": "17",
+"pos": "42901107",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "28,24",
+"dp": "52",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "SHOX",
+"disease": "OMIM:249700",
+"disease_name": "Langer mesomelic dysplasia",
+"stratum": "single_allele",
+"hpo": [
+"HP:0008845",
+"HP:0003993",
+"HP:0003038",
+"HP:0006381",
+"HP:0002938",
+"HP:0002986",
+"HP:0000218",
+"HP:0002984"
+],
+"variants": [
+{
+"chrom": "X",
+"pos": "641036",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "14,24",
+"dp": "38",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "ATP9A",
+"disease": "OMIM:620242",
+"disease_name": "Neurodevelopmental disorder with poor growth and behavioral abnormalities",
+"stratum": "single_allele",
+"hpo": [
+"HP:0002017",
+"HP:0001684",
+"HP:0000319",
+"HP:0005709",
+"HP:0000736",
+"HP:0002020",
+"HP:0000716",
+"HP:0001252"
+],
+"variants": [
+{
+"chrom": "20",
+"pos": "51627668",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "23,14",
+"dp": "37",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "ABCA1",
+"disease": "OMIM:205400",
+"disease_name": "Tangier disease",
+"stratum": "single_allele",
+"hpo": [
+"HP:0025608",
+"HP:0002155",
+"HP:0007328",
+"HP:0031800",
+"HP:0008404",
+"HP:0002621",
+"HP:0002164",
+"HP:0003477"
+],
+"variants": [
+{
+"chrom": "9",
+"pos": "104822520",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "17,17",
+"dp": "34",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "CAV1",
+"disease": "OMIM:612526",
+"disease_name": "Lipodystrophy, congenital generalized, type 3",
+"stratum": "single_allele",
+"hpo": [
+"HP:0001397",
+"HP:0004322",
+"HP:0002155",
+"HP:0000819",
+"HP:0001433",
+"HP:0002240",
+"HP:0002901",
+"HP:0000956"
+],
+"variants": [
+{
+"chrom": "7",
+"pos": "116526606",
+"ref": "G",
+"alt": "T",
+"gt": "0/1",
+"ad": "13,10",
+"dp": "23",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "IL6ST",
+"disease": "OMIM:618523",
+"disease_name": "Hyper-IgE recurrent infection syndrome 4, autosomal recessive",
+"stratum": "single_allele",
+"hpo": [
+"HP:0002650",
+"HP:0000678",
+"HP:0030799",
+"HP:0000403",
+"HP:0002110",
+"HP:0500093",
+"HP:0012758",
+"HP:0002205"
+],
+"variants": [
+{
+"chrom": "5",
+"pos": "55960534",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "22,20",
+"dp": "42",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "ALOXE3",
+"disease": "OMIM:242100",
+"disease_name": "Ichthyosis, congenital, autosomal recessive 2",
+"stratum": "single_allele",
+"hpo": [
+"HP:0033252",
+"HP:0001816",
+"HP:0000982",
+"HP:0003241",
+"HP:0000232",
+"HP:0001510",
+"HP:0001595",
+"HP:0007431"
+],
+"variants": [
+{
+"chrom": "17",
+"pos": "8116822",
+"ref": "A",
+"alt": "T",
+"gt": "0/1",
+"ad": "25,26",
+"dp": "51",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "ELAC2",
+"disease": "OMIM:615440",
+"disease_name": "Combined oxidative phosphorylation deficiency 17",
+"stratum": "single_allele",
+"hpo": [
+"HP:0001263",
+"HP:0011923",
+"HP:0001508",
+"HP:0000407",
+"HP:0001639",
+"HP:0001252",
+"HP:0001635",
+"HP:0003128"
+],
+"variants": [
+{
+"chrom": "17",
+"pos": "12995007",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "29,16",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "NOS1AP",
+"disease": "OMIM:619155",
+"disease_name": "Nephrotic syndrome, type 22",
+"stratum": "single_allele",
+"hpo": [
+"HP:0003075",
+"HP:0031266",
+"HP:0003774",
+"HP:0000100",
+"HP:0000096",
+"HP:0007430",
+"HP:0002907",
+"HP:0012593"
+],
+"variants": [
+{
+"chrom": "1",
+"pos": "162333100",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "21,18",
+"dp": "39",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "RNF31",
+"disease": "OMIM:620632",
+"disease_name": "Immunodeficiency 115 with autoinflammation",
+"stratum": "single_allele",
+"hpo": [
+"HP:0004315",
+"HP:0031402",
+"HP:0003565",
+"HP:0200043",
+"HP:0001263",
+"HP:0002718",
+"HP:0001744",
+"HP:0002721"
+],
+"variants": [
+{
+"chrom": "14",
+"pos": "24147998",
+"ref": "T",
+"alt": "C",
+"gt": "0/1",
+"ad": "17,21",
+"dp": "38",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "IFT43",
+"disease": "OMIM:614099",
+"disease_name": "Cranioectodermal dysplasia 3",
+"stratum": "single_allele",
+"hpo": [
+"HP:0008070",
+"HP:0003774",
+"HP:0004691",
+"HP:0001852",
+"HP:0000506",
+"HP:0030799",
+"HP:0008905",
+"HP:0001382"
+],
+"variants": [
+{
+"chrom": "14",
+"pos": "76082368",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "33,12",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "C14orf39",
+"disease": "OMIM:619203",
+"disease_name": "Premature ovarian failure 18",
+"stratum": "single_allele",
+"hpo": [
+"HP:0008724",
+"HP:0000013",
+"HP:0008209",
+"HP:0031103",
+"HP:0011969",
+"HP:0000869",
+"HP:0000858",
+"HP:0008232"
+],
+"variants": [
+{
+"chrom": "14",
+"pos": "60465993",
+"ref": "C",
+"alt": "A",
+"gt": "0/1",
+"ad": "13,21",
+"dp": "34",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "PLCH1",
+"disease": "OMIM:619895",
+"disease_name": "Holoprosencephaly 14",
+"stratum": "single_allele",
+"hpo": [
+"HP:0002007",
+"HP:0002951",
+"HP:0002410",
+"HP:0002119",
+"HP:0001719",
+"HP:0001305",
+"HP:0006988",
+"HP:0000175"
+],
+"variants": [
+{
+"chrom": "3",
+"pos": "155494222",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "26,17",
+"dp": "43",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "KIDINS220",
+"disease": "OMIM:619501",
+"disease_name": "Ventriculomegaly and arthrogryposis",
+"stratum": "single_allele",
+"hpo": [
+"HP:0000347",
+"HP:0001274",
+"HP:0002804",
+"HP:0001188",
+"HP:0001321",
+"HP:0003049",
+"HP:0002119",
+"HP:0001762"
+],
+"variants": [
+{
+"chrom": "2",
+"pos": "8800444",
+"ref": "G",
+"alt": "A",
+"gt": "0/1",
+"ad": "21,17",
+"dp": "38",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "MITF",
+"disease": "OMIM:617306",
+"disease_name": "Coloboma, osteopetrosis, microphthalmia, macrocephaly, albinism, and deafness",
+"stratum": "hom",
+"hpo": [
+"HP:0004467",
+"HP:0004482",
+"HP:0011001",
+"HP:0000586",
+"HP:0011002",
+"HP:0002389",
+"HP:0000568",
+"HP:0012805"
+],
+"variants": [
+{
+"chrom": "3",
+"pos": "69949170",
+"ref": "T",
+"alt": "C",
+"gt": "1/1",
+"ad": "0,52",
+"dp": "52",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "TPRKB",
+"disease": "OMIM:617731",
+"disease_name": "Galloway-Mowat syndrome 5",
+"stratum": "hom",
+"hpo": [
+"HP:0012444",
+"HP:0000093",
+"HP:0000286",
+"HP:0001257",
+"HP:0012588",
+"HP:0003774",
+"HP:0000316",
+"HP:0000365"
+],
+"variants": [
+{
+"chrom": "2",
+"pos": "73730025",
+"ref": "T",
+"alt": "C",
+"gt": "1/1",
+"ad": "0,35",
+"dp": "35",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "PEX16",
+"disease": "OMIM:614876",
+"disease_name": "Peroxisome biogenesis disorder 8A (Zellweger)",
+"stratum": "hom",
+"hpo": [
+"HP:0010655",
+"HP:0001629",
+"HP:0008872",
+"HP:0001250",
+"HP:0011344",
+"HP:0000518",
+"HP:0001290",
+"HP:0000162"
+],
+"variants": [
+{
+"chrom": "11",
+"pos": "45914169",
+"ref": "C",
+"alt": "T",
+"gt": "1/1",
+"ad": "0,45",
+"dp": "45",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "COQ2",
+"disease": "OMIM:146500",
+"disease_name": "Multiple system atrophy 1, susceptibility to",
+"stratum": "hom",
+"hpo": [
+"HP:0000966",
+"HP:0003202",
+"HP:0000802",
+"HP:0002172",
+"HP:0012332",
+"HP:0001089",
+"HP:0001260",
+"HP:0000640"
+],
+"variants": [
+{
+"chrom": "4",
+"pos": "83279081",
+"ref": "C",
+"alt": "T",
+"gt": "1/1",
+"ad": "0,57",
+"dp": "57",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "AGRN",
+"disease": "OMIM:615120",
+"disease_name": "Myasthenic syndrome, congenital, 8",
+"stratum": "hom",
+"hpo": [
+"HP:0000218",
+"HP:0003403",
+"HP:0009046",
+"HP:0002093",
+"HP:0000508",
+"HP:0003388",
+"HP:0003701",
+"HP:0030319"
+],
+"variants": [
+{
+"chrom": "1",
+"pos": "1049672",
+"ref": "C",
+"alt": "T",
+"gt": "1/1",
+"ad": "0,47",
+"dp": "47",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "UROD",
+"disease": "OMIM:176100",
+"disease_name": "Porphyria cutanea tarda",
+"stratum": "hom",
+"hpo": [
+"HP:0100324",
+"HP:0001806",
+"HP:0001394",
+"HP:0001596",
+"HP:0000992",
+"HP:0010473",
+"HP:0002219",
+"HP:0034715"
+],
+"variants": [
+{
+"chrom": "1",
+"pos": "45013140",
+"ref": "T",
+"alt": "A",
+"gt": "1/1",
+"ad": "0,52",
+"dp": "52",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "APC2",
+"disease": "OMIM:617169",
+"disease_name": "Intellectual developmental disorder, autosomal recessive 74",
+"stratum": "hom",
+"hpo": [
+"HP:0000189",
+"HP:0001263",
+"HP:0000752",
+"HP:0002392",
+"HP:0000431",
+"HP:0000303",
+"HP:0000276",
+"HP:0004482"
+],
+"variants": [
+{
+"chrom": "19",
+"pos": "1461154",
+"ref": "G",
+"alt": "C",
+"gt": "1/1",
+"ad": "0,36",
+"dp": "36",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "COQ7",
+"disease": "OMIM:616733",
+"disease_name": "Coenzyme Q10 deficiency, primary, 8",
+"stratum": "hom",
+"hpo": [
+"HP:0001252",
+"HP:0002098",
+"HP:0001518",
+"HP:0000822",
+"HP:0001712",
+"HP:0000505",
+"HP:0001371",
+"HP:0003259"
+],
+"variants": [
+{
+"chrom": "16",
+"pos": "19075775",
+"ref": "T",
+"alt": "A",
+"gt": "1/1",
+"ad": "0,52",
+"dp": "52",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "FBXL4",
+"disease": "OMIM:615471",
+"disease_name": "Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)",
+"stratum": "hom",
+"hpo": [
+"HP:0000494",
+"HP:0000508",
+"HP:0001667",
+"HP:0007109",
+"HP:0002151",
+"HP:0011427",
+"HP:0001639",
+"HP:0011120"
+],
+"variants": [
+{
+"chrom": "6",
+"pos": "98875423",
+"ref": "T",
+"alt": "C",
+"gt": "1/1",
+"ad": "0,37",
+"dp": "37",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "C2orf69",
+"disease": "OMIM:619423",
+"disease_name": "Combined oxidative phosphorylation deficiency 53",
+"stratum": "hom",
+"hpo": [
+"HP:0003095",
+"HP:0002240",
+"HP:0001369",
+"HP:0001250",
+"HP:0001508",
+"HP:0001257",
+"HP:0003700",
+"HP:0004840"
+],
+"variants": [
+{
+"chrom": "2",
+"pos": "199925657",
+"ref": "G",
+"alt": "A",
+"gt": "1/1",
+"ad": "0,57",
+"dp": "57",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "NOS3",
+"disease": "OMIM:621469",
+"disease_name": "Moyamoya disease 8",
+"stratum": "hom",
+"hpo": [
+"HP:0001249",
+"HP:0030880",
+"HP:0000822",
+"HP:0012377",
+"HP:0001263",
+"HP:0033832",
+"HP:0004322",
+"HP:0012495"
+],
+"variants": [
+{
+"chrom": "7",
+"pos": "150995216",
+"ref": "C",
+"alt": "T",
+"gt": "1/1",
+"ad": "0,46",
+"dp": "46",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "RAG1",
+"disease": "OMIM:601457",
+"disease_name": "Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive",
+"stratum": "hom",
+"hpo": [
+"HP:0001508",
+"HP:0010976",
+"HP:0000265",
+"HP:0005390",
+"HP:0002014",
+"HP:0003139",
+"HP:0040334",
+"HP:0005352"
+],
+"variants": [
+{
+"chrom": "11",
+"pos": "36575652",
+"ref": "C",
+"alt": "G",
+"gt": "1/1",
+"ad": "0,50",
+"dp": "50",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "AGT",
+"disease": "OMIM:267430",
+"disease_name": "Renal tubular dysgenesis",
+"stratum": "hom",
+"hpo": [
+"HP:0000079",
+"HP:0002093",
+"HP:0001562",
+"HP:0002009",
+"HP:0000252",
+"HP:0002089",
+"HP:0008660",
+"HP:0100519"
+],
+"variants": [
+{
+"chrom": "1",
+"pos": "230710771",
+"ref": "C",
+"alt": "T",
+"gt": "1/1",
+"ad": "0,27",
+"dp": "27",
+"gq": "81",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "COL9A1",
+"disease": "OMIM:614134",
+"disease_name": "Stickler syndrome, type IV",
+"stratum": "hom",
+"hpo": [
+"HP:0001611",
+"HP:0000483",
+"HP:0002656",
+"HP:0002857",
+"HP:0004322",
+"HP:0006361",
+"HP:0003370",
+"HP:0002650"
+],
+"variants": [
+{
+"chrom": "6",
+"pos": "70294554",
+"ref": "A",
+"alt": "T",
+"gt": "1/1",
+"ad": "0,38",
+"dp": "38",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+},
+{
+"gene": "HAVCR2",
+"disease": "OMIM:618398",
+"disease_name": "T-cell lymphoma, subcutaneous panniculitis-like",
+"stratum": "hom",
+"hpo": [
+"HP:0000282",
+"HP:0012490",
+"HP:0001945",
+"HP:0001744",
+"HP:0001903",
+"HP:0001876",
+"HP:0003281",
+"HP:0012156"
+],
+"variants": [
+{
+"chrom": "5",
+"pos": "157106690",
+"ref": "G",
+"alt": "A",
+"gt": "1/1",
+"ad": "0,50",
+"dp": "50",
+"gq": "99",
+"pgt": ".",
+"pid": "."
+}
+],
+"expect_top1": true
+}
+]

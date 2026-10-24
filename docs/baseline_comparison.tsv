@@ -1,0 +1,4 @@
+arm	exact1_complete	gene1_complete	exact1_all80	cis_pair_at1	challenge_BUB1B_rank
+B1 evidence+rarity only	0/45	0/45	0/80	0	3
+B2 phenotype only (inheritance-gated)	37/45	42/45	56/80	0	1
+FULL current method	37/45	39/45	54/80	0	1

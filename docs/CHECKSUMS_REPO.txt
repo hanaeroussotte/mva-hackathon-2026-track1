@@ -1,7 +1,8 @@
 # CHECKSUMS_REPO.txt -- md5 over this repository, generated after all edits
 # CHECKSUMS_REPO.txt is not listed in itself (hashing would change it).
 
-
+79597847a51cc60ae915de70f206d3b8  .gitignore
+fa1b7f743a874b858a743af95882773b  PUSH_INSTRUCTIONS.md
 1b250c969cbb95eba296560552a37cbe  README.md
 ecb000459cbec8c8accf79fe233528cd  docs/BENCHMARK_EXPLAINED.md
 efd9a79c269158cde1328a0da9227ba3  docs/CHANGELOG.md
@@ -12,6 +13,7 @@ e66e58413d3f23b9f294babe66e6b5e6  docs/SUBMISSION_CHECKLIST.md
 ad67d778b300efaedb1787d5f92efe20  docs/baseline_comparison.tsv
 92f2ee7c89156b9cb0d3c76c5110a407  docs/competing_allele_availability.tsv
 6d574baadacbb860b2905ef37b5b6bb6  docs/failed_case_trace.tsv
+09cdbbd1197e69a0ccae56868500b136  docs/hanaeroussotte_methods_description.xlsx
 46894c39d7ffd226022803b7b669d117  docs/missense_policy_on_new_benchmark.tsv
 1f18ee9424faf8084e16cd8a9515d4da  docs/pair_aggregation_sensitivity.tsv
 1e0302dc7f46bb511bd41be007b69795  docs/reference_verification.tsv

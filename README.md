@@ -32,6 +32,7 @@ feature, nephrocalcinosis, is unexplained.
 | **What the validation shows** | [`docs/BENCHMARK_EXPLAINED.md`](docs/BENCHMARK_EXPLAINED.md) — read before quoting any benchmark figure |
 | **How to reproduce** | §Reproducing below |
 | **Submission requirements** | [`docs/SUBMISSION_CHECKLIST.md`](docs/SUBMISSION_CHECKLIST.md) |
+| **Methods description (organisers' template)** | [`docs/hanaeroussotte_methods_description.xlsx`](docs/hanaeroussotte_methods_description.xlsx) — Track 1 sheet completed |
 | **What is and is not in this repository** | [`docs/REPO_SCOPE.md`](docs/REPO_SCOPE.md) |
 
 ---
